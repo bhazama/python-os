@@ -1,4 +1,4 @@
 hackthebox.py
 passwords.txt
 supersecretsquirrel.encrypted
-hello.txt there.txt friend.txt
+hello.txt there.txt friend.txthello.txt there.txt friend.txthello.txt there.txt friend.txthello.txt there.txt friend.txthello.txt there.txt friend.txthello.txt there.txt friend.txthello.txt there.txt friend.txthello.txt there.txt friend.txt
